@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @yaydy
-- 👀 I’m interested in discord bots
 - 🌱 I’m currently learning JavaScript
